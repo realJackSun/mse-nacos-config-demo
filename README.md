@@ -1,5 +1,5 @@
 # mse-nacos-config-demo
-本工程是使用MSE Nacos配置中心的一个demo程序。
+本工程是使用MSE Nacos配置中心的一个支持一键启动的demo程序，您仅需替换少量参数即可。
 # 注意事项
 使用时请注意，将{namespaceId}替换成mse上的namespaceId
 ![image](https://user-images.githubusercontent.com/58767027/205231384-1aadb172-b00d-40d5-b367-cbc3e6449ed1.png)
